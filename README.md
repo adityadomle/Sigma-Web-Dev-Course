@@ -1,3 +1,3 @@
 # job-board-codsoft
 Internship Project!
-Job Board!
+Job Board.
