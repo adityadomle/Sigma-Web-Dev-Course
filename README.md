@@ -12,8 +12,8 @@ This repo contains all the practice projects, mini assignments, and notes from t
 
 ## 🛠️ Tools Used
 
-- VS Code 💻
-- Live Server 🔄
+- VS Code 💻  
+- Live Server 🔄  
 - Google Chrome DevTools 🌐
 
 ## 🎯 Goal
@@ -23,16 +23,16 @@ This repo reflects my step-by-step progress and growth while following the cours
 ## 🚀 What's Next?
 
 I'm currently expanding my skills by diving into:
-- ⚛️ React.js
-- 🧑‍💻 Full Stack Development (MERN)
+- ⚛️ React.js  
+- 🧑‍💻 Full Stack Development (MERN)  
 - 🌱 Open-source contributions
 
 ---
 
 ### 📬 Connect with Me
 
-- GitHub: [@adityadomle](https://github.com/adityadomle)
-- LinkedIn: [linkedin.com/in/adityadomle](https://www.linkedin.com/in/adityadomle/)
+- [GitHub Profile](https://github.com/adityadomle)
+- [LinkedIn Profile](https://www.linkedin.com/in/adityadomle/)
 
 ---
 
